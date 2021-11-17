@@ -1,5 +1,6 @@
 gop_autogen*.go
 .gop/
+.DS_Store
 
 # Binaries for programs and plugins
 *.exe
