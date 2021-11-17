@@ -1,0 +1,3 @@
+onStart => {
+	Say "Hello World"
+}
