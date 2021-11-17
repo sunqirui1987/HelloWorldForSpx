@@ -1,4 +1,4 @@
-module github.com/xushiwei/BetaGo
+module github.com/sunqirui1987/HelloWorldForSpx
 
 go 1.16
 
